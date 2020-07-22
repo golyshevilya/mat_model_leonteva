@@ -1,0 +1,158 @@
+windows installer reconfigured product product name citrix berwachungsdienst product version product language manufacturer citrix systems inc reconfiguration success error status
+windows installer reconfigured product product name citrix azure resource manager plugin product version product language manufacturer citrix systems inc reconfiguration success error status
+user profile service stopped
+citrix broker service successfully connected xendesktop database
+citrix broker service failed broker connection user emea resource dektop uc virtual machine ef emea cds internal com rejected request prepare connection problem usually indicates virtual machine engaged activity restarting entering suspended state processing recent disconnection logoff
+windows installer reconfigured product product name citrix storefront berechtigungendienst product version product language manufacturer citrix systems inc reconfiguration success error status
+service stopping
+windows installer reconfigured product product name citrix delegated administration service powershell snap product version product language manufacturer citrix systems inc reconfiguration success error status
+connection citrix broker service database restored
+windows installer reconfigured product product name netiq appmanager agent product version product language manufacturer netiq corporation inc reconfiguration success error status
+windows search service created default configuration new user emea e
+windows installer reconfigured product product name seclog agent product version product language manufacturer systems international gmbh reconfiguration success error status
+windows installer reconfigured product product name adobe acrobat reader dc deutsch product version product language manufacturer adobe systems incorporated reconfiguration success error status
+windows installer reconfigured product product name google chrome product version product language manufacturer google inc reconfiguration success error status
+windows installer reconfigured product product name citrix broker service product version product language manufacturer citrix systems inc reconfiguration success error status
+windows installer reconfigured product product name citrix xenserver windows management agent product version product language manufacturer citrix reconfiguration success error status
+citrix broker service failed broker connection user emea resource desktop uc either resource maintenance mode desktop group hypervisor associated resource maintenance mode resource undergoing automatic maintenance
+eventid
+windows installer reconfigured product product name citrix remote broker provider x product version product language manufacturer citrix systems inc reconfiguration success error status
+windows installer reconfigured product product name citrix analytics product version product language manufacturer citrix systems inc reconfiguration success error status
+windows installer reconfigured product product name citrix configuration logging service powershell snap product version product language manufacturer citrix systems inc reconfiguration success error status
+windows installer reconfigured product product name citrix trust service powershell snap product version product language manufacturer citrix systems inc reconfiguration success error status
+connection database restored
+net runtime optimization service installed repository mscorlib
+windows installer reconfigured product product name citrix personalization appv studio product version product language manufacturer citrix systems inc reconfiguration success error status
+citrix broker service successfully performed power action turnoff origin idlepool virtual machine emea ef
+windows installer reconfigured product product name citrix storefront service powershell snap product version product language manufacturer citrix systems inc reconfiguration success error status
+windows installer reconfigured product product name citrix orchestration service product version product language manufacturer citrix systems inc reconfiguration success error status
+windows installer reconfigured product product name mcafee endpoint security platform product version product language manufacturer mcafee llc reconfiguration success error status
+windows installer reconfigured product product name microsoft sql server express localdb product version product language manufacturer microsoft corporation reconfiguration success error status
+mcshield successfully started
+citrix broker service shutting
+svchost ds token db database engine attached database c windows system config systemprofile appdata local datasharing storage dstokendb dat time seconds
+windows installer reconfigured product product name mcafee agent product version product language manufacturer mcafee inc reconfiguration success error status
+windows installer reconfigured product product name citrix licensing powershell snap product version product language manufacturer citrix systems inc reconfiguration success error status
+security policy group policy objects applied successfully
+successfully scheduled software protection service start z reason rulesengine
+windows management instrumentation service started sucessfully
+desktop window manager registered session port
+software protection service started
+license acquisition failure details
+service starting
+citrix broker service successfully performed power action turnon origin idlepool virtual machine emea ef
+registration request worker ef emea cds internal com rejected broker service unable contact worker registration process
+windows installer reconfigured product product name microsoft sql server management objects x product version product language manufacturer microsoft corporation reconfiguration success error status
+windows installer reconfigured product product name putty release bit product version product language manufacturer simon tatham reconfiguration success error status
+windows installer reconfigured product product name citrix ad identity service powershell snap product version product language manufacturer citrix systems inc reconfiguration success error status
+windows installer reconfigured product product name citrix config synchronizer product version product language manufacturer citrix systems inc reconfiguration success error status
+connection database lost
+citrix broker service ready accept connections virtual machines
+service successfully shut
+content successfully updated
+description event id source perflib cannot found local computer may necessary registry information message dll files display message may permission access following information part event bits c windows system bitsperf dll
+windows installer reconfigured product product name microsoft sql server management objects product version product language manufacturer microsoft corporation reconfiguration success error status
+windows installer reconfigured product product name citrix azure provisioning product version product language manufacturer citrix systems inc reconfiguration success error status
+following message netiqmc
+citrix broker service shut successfully
+otherwise unhandled exception wcf call system servicemodel faultexception failed retrieve site record error datastoreexception
+citrix broker service successfully connected host
+windows installer reconfigured product product name citrix xendesktop powershell module product version product language manufacturer citrix systems inc reconfiguration success error status
+netiqccm admin message
+windows detected registry file still use applications services file unloaded applications services hold registry file may function properly afterwards user action required
+svchost ds token db database engine initiating recovery steps
+windows installer reconfigured product product name microsoft visual c x minimum runtime product version product language manufacturer microsoft corporation reconfiguration success error status
+windows installer reconfigured product product name citrix configuration service powershell snap product version product language manufacturer citrix systems inc reconfiguration success error status
+service stopping lock
+svchost ds token db database engine starting new instance
+windows installer reconfigured product product name citrix environment test service powershell snap product version product language manufacturer citrix systems inc reconfiguration success error status
+windows installer reconfigured product product name microsoft visual c x additional runtime product version product language manufacturer microsoft corporation reconfiguration success error status
+windows installer reconfigured product product name citrix analytics powershell snap product version product language manufacturer citrix systems inc reconfiguration success error status
+vss service shutting due shutdown event service control manager
+description event id source msdtc cannot found local computer may necessary registry information message dll files display message may permission access following information part event
+citrix broker service stopping xml http services
+service longer suppressing related messages event ids
+svchost ds token db database engine begun replaying logfile c windows system config systemprofile appdata local datasharing storage dss log
+windows installer reconfigured product product name citrix host service powershell snap product version product language manufacturer citrix systems inc reconfiguration success error status
+citrix broker service sdk support started
+citrix broker service failed broker connection user emea resource desktop uc citrix broker service cannot find available virtual machines
+user profile service started successfully
+acquisition genuine ticket failed hr x ee template id e ec f f
+windows installer reconfigured product product name citrix broker powershell snap product version product language manufacturer citrix systems inc reconfiguration success error status
+citrix broker service successfully contacted license server
+description event id source adobearmservice cannot found local computer may necessary registry information message dll files display message may permission access following information part event service started
+citrix broker service failed contact virtual machine ef emea cds internal com ip address
+windows installer reconfigured product product name microsoft system clr types sql server x product version product language manufacturer microsoft corporation reconfiguration success error status
+citrix broker service successfully started xml services
+windows installer reconfigured product product name mcafee endpoint security threat prevention product version product language manufacturer mcafee llc reconfiguration success error status
+windows installer reconfigured product product name citrix gruppenrichtlinienverwaltung product version product language manufacturer citrix systems inc reconfiguration success error status
+windows installer reconfigured product product name citrix hostdienst product version product language manufacturer citrix systems inc reconfiguration success error status
+terminating hosted service
+windows installer reconfigured product product name citrix app library product version product language manufacturer citrix systems inc reconfiguration success error status
+windows installer reconfigured product product name citrix maschinenerstellungsdienste product version product language manufacturer citrix systems inc reconfiguration success error status
+client processed activation response key management service machine
+following message netiqccm
+windows installer reconfigured product product name citrix konfigurationsprotokollierungsdienst product version product language manufacturer citrix systems inc reconfiguration success error status
+windows installer reconfigured product product name citrix trust service product version product language manufacturer citrix systems inc reconfiguration success error status
+citrix broker service failed broker connection user emea resource dektop uc communication error occurred attempting prepare virtual machine ef emea cds internal com
+software protection service completed licensing status check
+initialization status service objects
+windows installer reconfigured product product name citrix machine creation service powershell snap product version product language manufacturer citrix systems inc reconfiguration success error status
+avoid excessive event logging service temporarily suppressing related messages event ids
+rules engine successfully evaluated schedule
+client sent activation request key management service machine
+duplicate definition policy found policy name telnet client enabletelnetclient priority
+citrix broker service experienced internal error enforcing power policy service failed interaction xendesktop database unable determine policy actions needed
+windows installer reconfigured product product name citrix storefront service product version product language manufacturer citrix systems inc reconfiguration success error status
+otherwise unhandled exception wcf call citrix fma sdk servicecore authorizationfailureexception failed authorize operation getdatastore checkglobalaccess failed
+software protection service stopped
+activation app microsoft windows cortana cw n h txyewy cortanaui failed error see microsoft windows twinui operational log additional information
+windows installer reconfigured product product name citrix orchestration service powershell snap product version product language manufacturer citrix systems inc reconfiguration success error status
+svchost ds token db database engine successfully completed recovery steps
+connection citrix broker service database lost
+windows installer reconfigured product product name citrix monitor service powershell snap product version product language manufacturer citrix systems inc reconfiguration success error status
+citrix broker service failed broker connection user emea resource desktop uc communication error occurred attempting prepare virtual machine ef emea cds internal com
+software protection service starting
+service initialized successfully
+citrix broker service successfully initialized windows communication foundation wcf services required interaction machine virtual machines
+citrix broker service starting
+windows installer reconfigured product product name microsoft visual c x redistributable product version product language manufacturer microsoft corporation reconfiguration success error status
+windows management instrumentation service subsystems initialized successfully
+description event id source msdtc cannot found local computer may necessary registry information message dll files display message may permission access following information part event mutual authentication required nt authority networkservice
+service stopping shutting
+performance counters wmiaprpl wmiaprpl service loaded successfully record data data section contains new index values assigned service
+hosted service opened wcf endpoint net pipe localhost citrix privilegedadminservice
+duplicate definition policy found policy name security spp ignoredeferredactivation priority
+citrix broker service marked power action failed virtual machine emea ef failed register site started restarted resumed
+windows installer reconfigured product product name citrix app library powershell snap product version product language manufacturer citrix systems inc reconfiguration success error status
+netiqmc admin message
+windows installer reconfigured product product name pvs powershell sdk x product version product language manufacturer citrix systems inc reconfiguration success error status
+service started successfully
+citrix broker service detected power action shutdown origin idlepool virtual machine emea ef failed
+svchost ds token db database engine started new instance time seconds
+service stopped successfully
+citrix config sync service starting
+windows installer reconfigured product product name netiq appmanager vc sp x runtime support product version product language manufacturer netiq corporation inc reconfiguration success error status
+windows installer reconfigured product product name citrix konfigurationsdienst product version product language manufacturer citrix systems inc reconfiguration success error status
+windows installer reconfigured product product name citrix telemetry service x product version product language manufacturer citrix reconfiguration success error status
+windows installer reconfigured product product name citrix studio product version product language manufacturer citrix systems inc reconfiguration success error status
+windows installer reconfigured product product name citrix configmgr wol product version product language manufacturer citrix systems inc reconfiguration success error status
+citrix broker service successfully stopped xml http services
+windows installer reconfigured product product name citrix dienst f r delegierte administration product version product language manufacturer citrix systems inc reconfiguration success error status
+windows installer reconfigured product product name userprofilemanager sdk snap product version product language manufacturer citrix systems inc reconfiguration success error status
+windows installer reconfigured product product name citrix smart tools agent product version product language manufacturer citrix systems inc reconfiguration success error status
+aot listener exited abnormally
+policies excluded since defined override attribute
+citrix broker service ready contact hosts
+citrix broker service started successfully
+windows installer reconfigured product product name citrix ad identit tsdienst product version product language manufacturer citrix systems inc reconfiguration success error status
+windows installer reconfigured product product name microsoft visual c redistributable x product version product language manufacturer microsoft corporation reconfiguration success error status
+performance counters wmiaprpl wmiaprpl service removed successfully record data contains new values system last counter last help registry entries
+citrix broker service successfully performed power action shutdown origin policy virtual machine emea ef
+citrix broker service failed broker connection user emea resource dektop uc citrix broker service cannot find available virtual machines
+duplicate definition policy found policy name acluifilefoldertool issecurityuienabled priority
+citrix broker service failed broker connection user emea resource desktop uc virtual machine ef emea cds internal com rejected request prepare connection problem usually indicates virtual machine engaged activity restarting entering suspended state processing recent disconnection logoff
+slui exe launched following command line parameters
+windows installer reconfigured product product name microsoft system clr types sql server product version product language manufacturer microsoft corporation reconfiguration success error status
+windows installer reconfigured product product name citrix environment test service product version product language manufacturer citrix systems inc reconfiguration success error status
+citrix broker service successfully performed power action shutdown origin untaint virtual machine emea ef
